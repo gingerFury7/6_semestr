@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/macbook/Desktop/Учеба/6 сем/Прога/Домашка/7/main.cpp
+iostream
+-
+iterator
+-
+algorithm
+-
+numeric
+-
+
